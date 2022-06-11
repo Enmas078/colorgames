@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+h1 {
+  color: purple;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+ #messageContainer {
+  margin: 0 auto;
+   width: 50%;
+   margin-bottom: 40px;
+  background-color: white;
+  display: flexbox;
+}
+#message  {
+  border: 1px solid black;
+  width: 50%;
+}
+
+.special {
+  max-width: 600px;
+  margin: auto 0;
+  background-color: white;
+}
+.square {
+  float: left;
+  background-color: purple;
+padding-bottom: 30%;
+margin: 1.66%;
+width: 30%;
+}
